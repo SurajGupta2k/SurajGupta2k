@@ -4,15 +4,15 @@
 
 
 
-🔭 **Currently focused on**: Full-stack web development with a strong interest in backend using Node.js and modern web tools.
+🔭 Currently Exploring: Building robust full-stack web applications with a strong emphasis on backend development using Node.js and cutting-edge web technologies.
 
-🌱 **Learning**: Advanced JavaScript, backend architecture, and preparing for full-stack/web development interviews.
+🌱 Actively Learning: Mastering advanced JavaScript concepts, backend system design, and scalable full-stack development practices.
 
-👯 **Open to collaborate on**: Open-source projects, creative tech tools, and digital versions of traditional Indian childhood games.
+👯 Open to Collaborations: Excited to team up on open-source contributions, innovative web tools, and digital recreations of nostalgic Indian childhood games.
 
-🤔 **Looking for help with**: Optimizing web apps and integrating complex backend features.
+🤝 Seeking Guidance On: Performance optimization, scalable backend integrations, and architecting complex features efficiently.
 
-💬 **Ask me about**: JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, and building real-world web apps.
+💬 Let’s Talk Tech: Passionate about JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, and crafting real-world web solutions.
 
 &nbsp;<strong>How to reach me:</strong>&nbsp;
 
