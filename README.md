@@ -52,7 +52,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF5dTRpYnVpeTc0ZTBoZmQ2MXFranB6M2o4end4c3RjbHd3YWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
@@ -65,4 +65,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
