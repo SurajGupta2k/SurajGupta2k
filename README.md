@@ -51,8 +51,8 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF5dTRpYnVpeTc0ZTBoZmQ2MXFranB6M2o4end4c3RjbHd3YWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
