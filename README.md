@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Suraj Gupta and I'm an aspiring Full-Stack Web Developer, from India.</h2>
+
 
 ###
 
@@ -51,10 +52,25 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta2k&theme=dark&hide_border=false&layout=compact" 
+  width="400" 
+  alt="Top Languages"
+/>
 
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF5dTRpYnVpeTc0ZTBoZmQ2MXFranB6M2o4end4c3RjbHd3YWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false" 
+  width="400" 
+  alt="GitHub Streak"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+  width="500" 
+  height="200" 
+  alt="Suraj Gupta's GitHub Stats"
+/>
 
 ###
 
