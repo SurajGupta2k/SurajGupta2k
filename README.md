@@ -14,10 +14,9 @@
 
 💬 **Ask me about**: JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, and building real-world web apps.
 
-<p align="left" style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/emoji/28/open-mailbox-with-raised-flag.png" alt="mailbox" style="vertical-align: middle;"/>
-  &nbsp; <strong>How to reach me:</strong>&nbsp;
-  <a href="mailto:surajgupta3738@gmail.com" target="_blank">
+&nbsp;<strong>How to reach me:</strong>&nbsp;
+
+ <a href="mailto:surajgupta3738@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/28/gmail-new.png" alt="Gmail"/>
   </a>
   &nbsp;
