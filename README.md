@@ -54,18 +54,18 @@
 # 📊 GitHub Stats:
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGupta2k&theme=dark&hide_border=false&layout=compact" 
-  width="250" 
+  width="500" 
   alt="Top Languages"
 />
 <img 
   src="https://nirzak-streak-stats.vercel.app/?user=SurajGupta2k&theme=dark&hide_border=false" 
-  width="250" 
+  width="500" 
   height="" 
   alt="GitHub Streak"
 />
 <img 
   src="https://github-readme-stats.vercel.app/api?username=SurajGupta2k&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-  width="250" 
+  width="500" 
   height="" 
   alt="Suraj Gupta's GitHub Stats"
 />
