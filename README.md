@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,csharp,cpp,java,mysql,php,tailwind,spring,postman,mongodb,hibernate,redis,express,materialui,git,github,vscode,intellij" height="100" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,java,mysql,php,tailwind,spring,postman,mongodb,hibernate,redis,express,materialui,git,github,vscode,intellij" height="100" />
 </div>
 
 
