@@ -3,7 +3,7 @@
 </h1>
 
 
-🚀 Full-stack dev focused on backend with Node.js.
+🚀 Full-stack dev focused on backend with Node.js.<br>
 🧠 Learning advanced JS & system design.<br>
 🤝 Open to collabs on OSS & nostalgic web games.<br>
 📈 Into performance, scalability & clean architecture.<br>
