@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluency/28/gmail-new.png" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/suraj-gupta-718412221/" target="_blank">
+  <a href="www.linkedin.com/in/surajgupta26" target="_blank">
     <img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
