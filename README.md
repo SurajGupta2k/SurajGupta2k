@@ -4,10 +4,10 @@
 
 
 🚀 Full-stack dev focused on backend with Node.js.
-🧠 Learning advanced JS & system design.
-🤝 Open to collabs on OSS & nostalgic web games.
-📈 Into performance, scalability & clean architecture.
-💬 Love working with JS, Node, MongoDB, Tailwind & more.
+🧠 Learning advanced JS & system design.<br>
+🤝 Open to collabs on OSS & nostalgic web games.<br>
+📈 Into performance, scalability & clean architecture.<br>
+💬 Love working with JS, Node, MongoDB, Tailwind & more.<br>
 
 &nbsp;<strong>How to reach me:</strong>&nbsp;
 
