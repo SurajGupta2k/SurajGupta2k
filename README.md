@@ -3,16 +3,11 @@
 </h1>
 
 
-
-🔭 Currently Exploring: Building robust full-stack web applications with a strong emphasis on backend development using Node.js and cutting-edge web technologies.
-
-🌱 Actively Learning: Mastering advanced JavaScript concepts, backend system design, and scalable full-stack development practices.
-
-👯 Open to Collaborations: Excited to team up on open-source contributions, innovative web tools, and digital recreations of nostalgic Indian childhood games.
-
-🤝 Seeking Guidance On: Performance optimization, scalable backend integrations, and architecting complex features efficiently.
-
-💬 Let’s Talk Tech: Passionate about JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, and crafting real-world web solutions.
+🚀 Full-stack dev focused on backend with Node.js.
+🧠 Learning advanced JS & system design.
+🤝 Open to collabs on OSS & nostalgic web games.
+📈 Into performance, scalability & clean architecture.
+💬 Love working with JS, Node, MongoDB, Tailwind & more.
 
 &nbsp;<strong>How to reach me:</strong>&nbsp;
 
