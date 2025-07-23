@@ -82,9 +82,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-
-## 🐍 GitHub Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajGupta2k/SurajGupta2k/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajGupta2k/SurajGupta2k/output/github-snake.svg" />
